@@ -1,0 +1,3 @@
+Esse repositório servirá para guardar arquivos do curso de HTML da DIO.
+
+Todos os arquivos deste repositório foram criados por Luis Gustavo dos Santos
